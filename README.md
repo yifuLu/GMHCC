@@ -1,5 +1,5 @@
 # GMHCC
-the code repository for GMHCC
+The code repository for GMHCC
 
 The  proposed  GMHCC  was implemented using Matlab R2016b for our paper below.
 
