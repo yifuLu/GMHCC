@@ -92,14 +92,6 @@ WEIGHT = WEIGHT';
 
 
 
-
-
-
-%nbins = 0.5*N;
-%counts = hist(t,nbins);%hist(x,nbins) 将 x 有序划分入标量 nbins 所指定数量的 bin 中。
-
-% thr = mean(counts);
-%size_sub = sum(counts>thr);
 size_sub = round(p*N);
 
 
