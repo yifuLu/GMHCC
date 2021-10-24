@@ -102,10 +102,4 @@ SUBSET = RANKED(1:size_sub);
 
 end
 
-%  =========================================================================
-%   More details:
-%   Reference   : Infinite Feature Selection: A Graph-based Feature Filtering Approach
-%   Journal     : IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-%   Author      : Roffo, G., Melzi, S., Castellani, U., Vinciarelli, A., and Cristani, M.
-%   Link        : https://github.com/giorgioroffo/Infinite-Feature-Selection
-%  =========================================================================
+
