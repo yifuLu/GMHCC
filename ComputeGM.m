@@ -1,5 +1,5 @@
 function GM = ComputeGM(BM) 
-%das
+
 [n,M] = size(BM); %no. of data points and no. of clusterings
 [E, no_allcl] = relabelCl(BM); % re-labelling clusters in the ensemble E
 wcl = weightCl(E);
