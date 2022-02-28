@@ -5,7 +5,6 @@ function [Ki,sumKi,binIDX,distance,weight]=...
     for i=1:r             
         sumKi(i+1) = sumKi(i)+Ki(i);
     end
-    d
     binIDX = IDX+repmat(sumKi(1:r)',n,1);
     distance = @distance_kl;    
     weight = w;   
