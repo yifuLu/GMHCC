@@ -14,6 +14,7 @@ NMI = cal_NMI(cmatrix,labelnum,ncluster,n,pi,pj);
 
 end
 
+
 function [ cmatrix,labelnum,ncluster] = ConMatrixHard(cluster,true_label)
 %Obtain Contingency Matrix
 
