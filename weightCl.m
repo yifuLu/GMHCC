@@ -5,7 +5,7 @@ function wcl = weightCl(E)
 %              their shared members (Jaccard Coefficient)
 %
 % INPUTS:   E = N-by-M matrix of cluster ensemble
-%
+%dd
 % OUTPUT: wcl = an weighted cluster matrix
 %==========================================================================
 
