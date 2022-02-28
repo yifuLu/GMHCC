@@ -1,5 +1,5 @@
 clear,clc
-%sada
+
 %load data
 load('datasets\Alizadeh-2000-v1');
 K = length(unique(gnd));
