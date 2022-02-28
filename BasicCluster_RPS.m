@@ -1,7 +1,7 @@
 function [IDX] = BasicCluster_RPS(Data,r,K,dist,randKi)
     [n,~] = size(Data);
     IDX = zeros(n,r);
- 
+
     if randKi==1&&sqrt(n)>K
         Ki = randsample(2:ceil(sqrt(n)),r,true); 
     else
