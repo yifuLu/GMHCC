@@ -17,7 +17,7 @@ Our proposed GMHCC is implemented using Matlab R2016b with the following configu
 
 The code repository for GMHCC.
 
-The  proposed  GMHCC  was implemented using Matlab R2016b for our paper below, and the datesets are also available in our home page. If you wang to run our codes, please download the GMHCC-master, and run GMHCC.m in Matlab. Both the software and the supporting data can be downloaded from: https://figshare.com/articles/software/GMHCC-Master/19248099.
+The  proposed  GMHCC  was implemented using Matlab R2016b for our paper below, and the datesets are also available in our home page. If you wang to run our codes, please download the GMHCC-master, and run GMHCC.m in Matlab. Both the software and the supporting data can be downloaded from: https://figshare.com/articles/software/GMHCC/17111291.
 
 "GMHCC: High-throughput Analysis of Biomolecular Data using Graph-based Multiple Hierarchical Consensus Clustering" Yifu Lu, Zhuohan Yu, Yunhe Wang, Zhiqiang Ma, Ka-chun Wong and Xiangtao Li.
 
