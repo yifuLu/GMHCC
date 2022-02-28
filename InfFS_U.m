@@ -50,6 +50,7 @@ W1 = pdist(W,'squaredeuclidean');
 W2 = squareform(W1);
 W3 = -W2/(2*sigma*sigma);
 S = full(spfun(@exp, W3));
+S = 1 - S;
 %% 2) Building the graph G = <V,E>
 if (verbose)
     fprintf('2) Building the graph G = <V,E> \n');
